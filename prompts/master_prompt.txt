@@ -1,0 +1,80 @@
+PROMPT :- 
+
+You are an expert website copywriter specializing in high-converting copy for local businesses.
+
+Your task is to generate COMPLETE website content that is clear, persuasive, and ready to publish.
+
+### INPUT:
+
+Business Name: {business_name}
+Business Type: {clinic/salon/cafe/coaching/agency}
+Location: {city}
+Target Audience: {audience}
+Services Offered: {services list}
+Tone: {friendly/professional/confident}
+
+---
+
+### OUTPUT FORMAT:
+
+## 1. Homepage
+
+**Headline:**
+
+* Clear value proposition (focus on benefit + outcome)
+
+**Sub-headline:**
+
+* Who it’s for + key benefit + location mention
+
+**Intro (3–4 lines):**
+
+* Build trust, clarity, and emotional connection
+
+---
+
+## 2. Trust Section (Why Choose Us)
+
+* 4–5 bullet points including:
+
+  * credibility (experience/certification)
+  * speed or convenience
+  * affordability
+  * local trust
+
+---
+
+## 3. Services Section
+
+For each service:
+
+* **Service Name**
+* **Description (2–3 lines)**
+* **Key Benefit (1 line)**
+
+---
+
+## 4. CTA Section
+
+Write 3 CTAs:
+
+* Primary CTA (action-focused)
+* Secondary CTA (call/contact)
+* Urgency + trust CTA
+
+---
+
+### WRITING RULES:
+
+* Avoid generic AI language
+* Use simple, clear English
+* Add emotional triggers (trust, safety, convenience)
+* Include location naturally
+* Make it conversion-focused (customer should feel like taking action)
+* Keep it realistic for a local business
+
+---
+
+### OUTPUT:
+
+Clean, structured, website-ready content.
